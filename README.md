@@ -5,12 +5,12 @@
 </p>
 
 # Marcos Koslinski
-<sub>*Data Scientist*</sub>
+<sub>*Cientista de Dados Junior*</sub>
 
 
-Como Cientista de Dados, integro habilidades analíticas, colaborativas e atenção aos detalhes. Com experiência na análise de dados e aplicação de Machine Learning em desafios reais, desenvolvi pensamento crítico e habilidades de resolução de problemas.
+Como Cientista de Dados, integro habilidades analíticas, colaborativas e atenção aos detalhes. Possou experiência na análise de dados e agora estou usando Machine Learning em desafios reais. Desenvolvi pensamento crítico e habilidades de resolução de problemas.
 
-Possuo um MBA em Tecnologia para Negócios: Inteligência Artificial, Data Science e Big Data pela PUCRS, uma instituição renomada reconhecida pelo MEC como a melhor universidade privada do Sul do Brasil. Além disso, sou especializado em Estrutura e Gestão de Redes de Computadores pela UNINTER e graduado em Gestão Comercial pela mesma instituição. Finalizando formação pedagógica em Matemática pela UNINTER, atualmente cursando Pós-graduação em Ciências de Dados e Inteligência Artificial pela UNINTER e em Engenharia e Arquitetura de Dados pela XP Educação.
+Possuo um MBA em Tecnologia para Negócios: Inteligência Artificial, Data Science e Big Data pela PUCRS, uma instituição renomada reconhecida pelo MEC como a melhor universidade privada do Sul do Brasil. Além disso, sou especializado em Estrutura e Gestão de Redes de Computadores pela UNINTER e graduado em Gestão Comercial pela mesma instituição. Finalizando formação pedagógica em Matemática pela UNINTER, atualmente cursando Pós-graduação em Ciências de Dados e Inteligência Artificial pela UNINTER e em Engenharia e Arquitetura de Dados pela XP Educação. Para conhecer meu perfil profissional completo, por favor visite meu [LinkedIn](https://www.linkedin.com/in/marcos-koslinski)
 
 **Background in:** SQL, Análise de dados, SQL Server, MySQL, Python, Aprendizado de Máquina e Estatística.
 
